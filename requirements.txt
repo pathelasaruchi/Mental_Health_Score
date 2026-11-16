@@ -4,3 +4,9 @@ pydantic
 joblib
 pandas
 scikit-learn
+optuna
+shap
+xgboost
+numpy
+matplotlib
+seaborn
